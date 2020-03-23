@@ -23,7 +23,7 @@ public class AppTest
    }
     @Test
     public void test_3(){
-        assertEquals(a_test_object.basicSum(1,1),3);
+        assertEquals(a_test_object.basicSum(1,2),3);
     }
     @Test
     public void test_4(){
